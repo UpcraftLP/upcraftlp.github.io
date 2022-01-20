@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://_N_E/styles/github.module.css"],"names":[],"mappings":"AAIA,yEACI,YACJ,CAEA,kDACI,aACJ","file":"static/css/bf0acfba34299268.css","sourcesContent":[".hovered {\n    display:none;\n}\n\n.group:hover .default {\n    display:none;\n}\n\n.group:hover .hovered {\n    display:block;\n}\n"],"sourceRoot":""}
